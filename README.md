@@ -3,7 +3,7 @@
 The AI-powered platform for preparing for mock interviews with intelligent feedback and real-time voice interaction.
 *Demo Video* - https://drive.google.com/file/d/1VvCHYJUhNTsKuO1s-JBwECPlOwFDo_FZ/view?usp=drive_link
 
-## 📚 Table of Contents
+## 📚 Table of Contents:
 
 - [Features](#-features)
 - [Tech Stack](#️-tech-stack)
